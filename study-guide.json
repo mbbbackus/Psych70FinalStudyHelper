@@ -1,0 +1,388 @@
+{
+   "Short Answer Terms:":{
+      "Causes and consequences of group identification":[
+         "Out-group animosity (out-group evil, immoral, dishonest)",
+         "In-group favoritism (solidarity, bias, boosted perceived competencece, respect, cooperations, and helpfulness)"
+      ],
+      "Status":[
+         "Relative hierarchies",
+         "status is an individual's relative standing in a hierarchy based on presitge, honor, and respect",
+         "Position in a status hierarchy reflects how competent and valuable people think you are, relative to other group members"
+      ],
+      "Triangular theory of love ":[
+         "Intimacy: feelings of closeness, connectedness, and bonding",
+         "Passion: Drive that leads to romance, physical attraction, and sex",
+         "Decision/Commitment: the decision that one loves another and the commitment to maintain the love"
+      ],
+      "Identifiable victim effect":[
+         "People donate more to help a cause when there is an identifiable victim",
+         "Compassion for tragedy decreases as the number of lives increases"
+      ],
+      "Various things that do/do not make you happy":[
+         "Wealth and income - diminishing returns",
+         "The imposter phenomenon - feeling among successful individuals that they do not belong in elite academic or professional settings",
+         "Posessions, especially flashy luxury shit"
+      ],
+      "Bystander effect ":[
+         "Kitty Genovese - 37 who saw murder didn't call the police",
+         "The presence of others inhibits helping"
+      ],
+      "The Spotlight Effect":[
+         "People overestimate the extent to which their actions and appearance are noticed by others"
+      ],
+      "Integrative negotiation":[
+         "Involves multiple issues, differences in priorities and interests",
+         "Successful outcomes involve value creation, not just value claiming",
+         "Distributive issues: when you value things in exactly the inverse way as your negotiation partner",
+         "Compatible issues: when the same outcome is good for you both",
+         "Integrative issues: when you and your partner have different p priorities on different issues, which is almost always the case"
+      ],
+      "Mass psychogenic illness ":[
+         "The collective occurrence of self-reported and or objective symptoms in the absence of an identifiable pathogen",
+         "Perspective changes the effects? (how stress is perceived to impact one's health literally describes how it plays out)"
+      ],
+      "Naive realism ":[
+         "The belief that our subjective experience is an objective, unmediated copy of reality",
+         "One person's trash is another's treasure"
+      ],
+      "Illusion of transparency ":[
+         "tendency for people to overestimate how much other can see their internal states"
+      ],
+      "Levels of identity":[
+         "personal identities and personality",
+         "role identities and roles",
+         "social identities and groups"
+      ],
+      "Ways to activate overarching identities":[
+         "Common Enemy (Balance Theory)",
+         "Seeing significant similarity",
+         "Common Goal"
+      ],
+      "Moral reframing hypothesis":[
+         "reframing a position in terms of the audience's moral values will lead to increased support",
+         "conservative morals: ingroup/loyalty authority/respect purity/sactity",
+         "Liberal morals: fairness/reciprocity harm/care"
+      ],
+      "Immune Neglect":[
+         "Tendency of people to overestimate the intensity and duration of their emotions",
+         "people neglect that they have an affective immune system",
+         "people fail to realize that strong emotions pass relatively quickly",
+         "Affective immune system ameliorates bad experiences, and to a lesser extent reduces impact of positive emotions"
+      ],
+      "Misattribution of arousal":[
+         "Rickety Bridge Study",
+         "Something physical happens to us when around someone that feels like love, so we think we're in love"
+      ],
+      "Imposter Phenomenon":[
+         "Ironically, success can make you feel like a fake",
+         "More common among women and minorities, presumably due to social stigmas",
+         "Feeling among successful individuals that they do not belong in elite academic or professional settings"
+      ],
+      "Stereotypes":[
+         "generalizations about the characteristics of members of groups",
+         "applied to group members whether true or not",
+         "Stereotyping streamlines thinking",
+         "Generalizations help anticipate the future",
+         "Problem: based on culturally received information",
+         "Problem: even when based on personal experience, they are over-applied",
+         "Affect everyday life: attributions, evaluations, behavior"
+      ],
+      "Pratfall effect":[
+         "When we view someone as competent, a blunder of theirs makes them appear more attractive because we feel that they're then more relatable"
+      ],
+      "Effects of status (\"What does status do?\")":[
+         "Greater received respect",
+         "Greater influence",
+         "more opportunities to speak",
+         "ideas more positively evaluated",
+         "higher perceived competence",
+         "higher perceived honesty and integrity",
+         "better pay",
+         "more lenient standards of evaluation (making it hard to lose status)"
+      ]
+   },
+   "Prompts for Long Answer (on the test you will pick 1 of 2):":{
+      "1. Explain the basic principles of social identity theory: give three causes of group identification, and three consequences. What can create an overarching (or superordinate) identity? Give an example that illustrates a cause of identification, a consequence of identification, and an overarching identity.":[
+         "Explains how people come to identify with groups and the consequences of group identification",
+         "Principles: Contrast is necessary for category formation (there is no group until there is a salient out-group)",
+         "Principles: People have a natural tendency to categorize when they see contrast",
+         "Causes: perceived similarity, presence of dissimilar out-group, salience of group membership in situation",
+         "Consequences: Out-group animosity, In-group favoritism",
+         "Example: Political parties. Cause: Literally defined as separate groups with separate conventions and opinions. Consequence: Thouroughly divided government in that there is plenty of animosity between groups. Overarching identity\u2013businesses, small-town america, white christians vs workers, city folk, diverse identity-conscious people",
+         "Example: Civil-rights movement. Causes: race/color of skin is pretty easy to notice, and it was explicitly given attention in official laws discriminating against black people. Consequences: Discrimination, lynching, segregation, formation of explicit in-groups such as KKK and black panthers (KKK obviously worse). The identity was attached to cultural backgrounds, socioeconomic status, and simply the color of one's skin."
+      ],
+      "3. List the five steps of helping.  For each step describe a barrier that might get in the way of engaging in helping and how one might overcome that barrier and therefore be more likely to engage in helping.  In your essay detail at least one social psychological experiment and explain what information that study reveals about helping behavior. ":[
+         "Step 1: Notice that something has happened Barrier: time pressure, distractions",
+         "Step 2: Interpret the event as an emergency Barrier: Pluralistic ignorance",
+         "Step 3: Take responsibility for providing help Barriers: Bystander effect, diffusion of responsibility, normative influence to not involve, biases toward people in need",
+         "Step 4: Decide how to help Barriers: feelings of incompetence, collapse of compassion",
+         "Step 5: Provide help Barrier: cost-reward analysis",
+         "NYC college students in study about stress problems, students didn't help as often when the groups they were in were bigger"
+      ],
+      "5. Many people overlook the importance of social factors in shaping our health.  Imagine you are at a dinner party trying to convince a skeptic that these forces matter: list three ways that social factors influence health.  For each way, describe one social psychological study or experiment that supports the claim. ":[
+         "Social status influences health: Whitehall study showed that lower status workers in the british civil service had higher mortality rates than those at the top",
+         "Social Support: Lachman, longitudinal study showed that social support predicts health maintenance",
+         "Social Influence: normative influence and food choice. Given choice between healthy and unhealthy snack,  if trash full of healthy wrappers, the number of healthy foods eaten increased"
+      ],
+      "4. Imagine you just received an offer from your dream organization. The offer includes a discussion of your salary as well as location, vacation days, and health insurance. Given what you learned in the negotiation lecture and in the Harvard Business Review reading on negotiation how would you go about negotiating effectively? For full credit describe 4 principles discussed in the lecture and reading that you could take into account to negotiate effectively.   ":[
+         "Fuck this question"
+      ],
+      "2. Explain how the Robber's Cave Experiment worked. Be sure to explain the 3 stages of the study and what happened during them. Give examples of overarching (i.e. superordinate) goals and how they affected the study participants. Give 2 conclusions about group interaction that can be drawn from this study. Explain how the results of the Robber's Cave Experiment are similar to the results of at least one other study cited in the Social Identity Theory lecture. ":[
+         "Two different groups of boys were assembled at Robber's cave",
+         "Stage 1: Totally isolate the two groups from one another for 5 days. Encourage bonding",
+         "Stage 2: Create competitions for trophies and medals. Brought together for first time at dinner, called each other names and sang derogatory songs",
+         "Stage 3: Integration. 6-7 days. Opportunities to reduce tension were presented, but had no effect, several events ended in food fights. Created superordinate (overarchingg) goals. Water Problem, a critical water faucet was blocked by researchers and blamed on vandals, the boys cooperated to fix it. Rattlers let eagles go first for water since they didn't have canteens. Getting a movie, researchers suggested they watch a movie that would cost $15, and the groups agreed to split the cost.",
+         "Group relations improved after superordinate goals were acheived. They ate together, mixed seats, and decided to return home on one bus. Cheered when the staff okayed this.",
+         "Conclusions: Accentuation effect explains perceptions of groups and group members. Minimal group experiments show groups can form from even small differences",
+         "Actual Conclusions: Separation and competition can generate inter-group conflict",
+         "Actual Conclusions: But cooperative pursuit of common goals and shared success can foster solidarity, cohesion, and liking",
+         "They Saw a Game: In both studies the two groups are at odds even though they were somewhat randomly assigned to groups they're in."
+      ]
+   },
+   "Multiple-Choice Questions:":{
+      "Zone Of Potential Agreement ":[
+         "bargaining zone",
+         "the space between two partys' reservation points",
+         "can be negative"
+      ],
+      "Accentuation Effect":[
+         "People perceive greater similarity within sets and less similarity between sets"
+      ],
+      "Bystander effect":[
+         "Individuals are less likely to offer to help a victim when other people are present",
+         "Diffsuion of responsibility"
+      ],
+      "Identifiable victim effect":[
+         "Individuals tend to offer greater aid when a specific, identifiable person\u2013victim\u2013is observered under hardship, as compared to a large, vaguely define group with the same need.",
+         "The effect is also observed when subjects administer punishhment rather than reward"
+      ],
+      "Effect of social influence on health beliefs ":[
+         "the belief that others are doing something for their health increases one's likelihood to do that thing"
+      ],
+      "Attitudinal and affective political polarization":[
+         "attitudinal: degree to which different attitude dimensions are correlated",
+         "attitudianl: average extremity of views on different issues",
+         "affective: 40% of americans upset if child marries person of opposing political party; partisans avoid relationships, friendships with other party supporters, decreasing warmth for other party"
+      ],
+      "Defining success in negotiation ":[
+         "getting more than my reservation price",
+         "getting at least half of the bargaining zone",
+         "strengthening a relationship",
+         "those were examples lol",
+         "recognize that you likely have habitual definitions of success that may or may not fit well with the situation at hand"
+      ],
+      "Various properties of status hierarchies ":[
+         "Develop quickly",
+         "Tend to \"lock in\"",
+         "Wide agreement",
+         "people base group hierarchies on same info, also take cues from each other"
+      ],
+      "Rickety bridge study (basic findings)":[
+         "Guys saw a girl that interviewed them as more attractive when she did so on a rickety bridge than when she did so on a stable bridge (misattribution of arrousal)"
+      ],
+      "\"Minimal group\" experiment (basic findings)":[
+         "Particpants treated those in their group better than others",
+         "Discovered that groups can be made out of almost nothing"
+      ],
+      "Distributive negotiation":[
+         "involves a single issue",
+         "fixed sum structure, one party's gain is the other's loss",
+         "conflicting interests, each party is trying to maximize their share"
+      ],
+      "Police Officer's Dilemma":[
+         "African americans are disproportionately victimized by wrongful police shootings",
+         "maybe due to exlicit racism",
+         "maybe also due to implicit stereotyping of african americans as more threatening than whites",
+         "in the split second when police decide to shoot, they have to assess the target as a threat",
+         "if people hold an automatically activated stereotype of african americans as more threatening, can lead to disproportionate wrongful shootings"
+      ],
+      "Misattribution of arousal ":[
+         "A stimulus from the body that feels like love tricks us in to thinking we're in love"
+      ],
+      "Mere exposure effect":[
+         "The more we see a novel stimulus, a foreign word, geometric form, or human face, the more we come to like it",
+         "most people prefer their own mirror image than what other's see"
+      ],
+      "Pratfall effect":[
+         "We see attractive people as even more attractive when they fuck up because then they're even more relatable"
+      ],
+      "Effects of status (\"What does status do?\")":[
+         "higher status yields greater respect, influence, more opportunities to speak, higher perceived competence, better pay..."
+      ],
+      "Causes and consequences of group identification":[
+         "Out-group animosity",
+         "In-group favoritism"
+      ],
+      "Triangular theory of love ":[
+         "intimacy",
+         "passion",
+         "commitment"
+      ],
+      "Sources/Causes of Meaning":[
+         "Meaning-happiness disjuncture, being a revolutionary and being a parent give much more meaning but not as much happiness",
+         "relationships and community, behaving consistent with your values and generosity",
+         "authenticity, figuring out who you are and being that person, life experience",
+         "working towards significant goals, greater than yourself",
+         "struggle/adversity if you grow"
+      ],
+      "Effect of social status on health ":[
+         "The whitehall study",
+         "the higher the social status, the better the health"
+      ],
+      "Actions vs. Inactions":[
+         "people regret actions more than inactions in the short term, but they regret inaction more in the long term"
+      ],
+      "Research on Pennebaker introspective essay exercise":[
+         "Introspective writing promotes better mental well-being"
+      ],
+      "Various things that do/do not make people happy":[
+         "No: wealth, success, posessions",
+         "yes: relationships, exercise, generosity, flow, savoring and moderation, gratitude, meditation",
+         "idk: status"
+      ],
+      "Effect of social support on health ":[
+         "social support heals"
+      ],
+      "Negotiation ":[
+         "a decision making process in which two or more people attempt to agree on how to allocate shared resources"
+      ],
+      "Naive realism ":[
+         "The belief that our subjective experience is an objective, unmediated copy of reality",
+         "one person's trash is another's treasure"
+      ],
+      "Causes of expanding polarization":[
+         "mass media segmentation",
+         "social media echo chambers",
+         "the great recession",
+         "economic globalization",
+         "expanding inequality",
+         "white decline?"
+      ],
+      "Illusion of transparency":[
+         "The tendency to think that others can tell what you're thinking",
+         "The false idea that others can see in to you"
+      ],
+      "Moral reframing hypothesis":[
+         "reframing a position in terms of the audience's moral values will lead to increased support"
+      ],
+      "Imposter Phenomenon":[
+         "Feeling among successful individuals that they do not belonng"
+      ],
+      "Stereotypes":[
+         "generalizations about the characteristics of members of groups",
+         "applied to the group members whether or not they actually apply or are accurate",
+         "any group may face stereotypic perceptions and judgements"
+      ],
+      "The \"big three\" forces in attraction ":[
+         "Proximity",
+         "Similarity",
+         "Familiarity"
+      ],
+      "Identity":[
+         "Different \"selves\" an individual may take on in social interaction"
+      ],
+      "Cultural and gender differences in love ":[
+         "people don't necessarily marry for love in all places",
+         "Women are more likely to go out with a random person than men, but less likely to want to have sex with that random person"
+      ],
+      "Kinship selection ":[
+         "An evolutionary strategy that favors the reproductive success of an organism's relatives, even at a cost of the organism"
+      ],
+      "Status":[
+         "An individuals relative standing in a group hierarchy based on prestige, honor, and respect",
+         "Position in a status hierarchy reflects how competent and valuable people think you are, relative to other group members"
+      ],
+      "Norm of reciprocity ":[
+         "the expectation that people will respond favorably to each other by returning benefits for benefits, and responding with either indifference or hostility to harms",
+         "the social norm of reciprocity often takes different forms in different areas of social life, or in different societies"
+      ],
+      "Altruism vs. egoism  ":[
+         "Altruism: motivated by the desire to increase another's welfare",
+         "Egoism: motivated by the desire to increase one's own welfare",
+         "Giving makes you happy!"
+      ],
+      "Subjective socioeconomic status ":[
+         "an attempt to capture individuals' sense of their place in the social ladder which takes into account standing on multiple dimensions of socioeconomic status and social position"
+      ],
+      "Flow":[
+         "When you become totally immersed in a challenging and stimulating task",
+         "Nonconscious is fully occupied"
+      ],
+      "Personality predictors of political ideology":[
+         "oppenness to experience, tolerance for ambiguity, need for cognitive closure, most associated with political views on social issues"
+      ],
+      "Positive Psychology":[
+         "The study of factors influencing positive psychological outcomes like happiness and sense of meaning and purpose"
+      ],
+      "Gain-loss effect ":[
+         "people tend to be most attracted to others whose liking for r them appears to have increased, and least attracted to others whose liking for them appears to have decreased"
+      ],
+      "Levels of identity":[
+         "Personal identities (personality: interpersonal, emotional, and psychological traits)",
+         "Role identities (roles, positions in groups)",
+         "Social identities (groups, self-meanings in terms of groups to which one belongs)"
+      ],
+      "Spotlight effect":[
+         "The false idea that other people are aware of your actions and physical attributes"
+      ],
+      "\"Robber's Cave\" experiment (basic findings)":[
+         "Separation and competition can generate inter-group conflict",
+         "Cooperative pursuit of common goals can foster solidarity, cohesion, and liking"
+      ],
+      "Factual problems with stereotypes":[
+         "Based on culturally received information",
+         "Even when based on personal experience, they are over-applied"
+      ],
+      "Relationship between income and happiness":[
+         "Diminshing returns of how happy money makes you",
+         "Kahneman and Deaton: income satisfaction correlation levels off around 75,000 annual income"
+      ],
+      "Mass psychogenic illness ":[
+         "the rapid spread of illness signs and symptoms affecting members of a cohesive group, originating from a nervous system diststurbance involving excitation, loss, or alteration of function"
+      ],
+      "Integrative negotiation ":[
+         "multiple different issues",
+         "successful outcomes involve value creation, not just value claiming"
+      ],
+      "Kitty Genovese ":[
+         "Girl got stabbed and murdered in front of 37-38 witnesses in her apartment building",
+         "Example of Bystander effect"
+      ],
+      "Effect of social influence on health behaviors":[
+         "beliefs, oops lol these are switched",
+         "mass psychogenic illness"
+      ],
+      "Ways to activate overarching identities":[
+         "Common enemy",
+         "Seeing significant similarity",
+         "Having and working towards a common goal"
+      ],
+      "\"Motherhood Wage Penalty\"":[
+         "Mothers tend to make less money relative to women without children, men",
+         "Mother assigned lower wages, likelihood of promotion even though qualifications were the same",
+         "effects driven by perceived competence and commitment",
+         "fathers received a boost"
+      ],
+      "Bases of status differentiation":[
+         "Race",
+         "gender",
+         "sexual orientation",
+         "wealth",
+         "attractiveness",
+         "education",
+         "specific skills",
+         "intelligence",
+         "generosity, honesty"
+      ],
+      "Immune Neglect":[
+         "tendency of people to overestimate the intensity and duration of their emotions",
+         "people fail to realize strong emotions pass relatively quickly",
+         "people neglect that they have an affective immune system"
+      ],
+      "Good Samaritan experiment":[
+         "People asked to give speech, on their way there they wecountered a man in need",
+         "The more time they had to get to their location, the more likely they were to help",
+         "Those who were late were very unlikely to help"
+      ]
+   }
+}
